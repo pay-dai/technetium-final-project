@@ -37,7 +37,7 @@ def play_game(correct_language):
     return 0
 
 def main():
-    score = play_game(correct_language)
+    time_to_play = play_game(correct_language)
     
 if __name__ == "__main__":
     main()
