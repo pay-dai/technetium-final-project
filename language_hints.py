@@ -4,6 +4,7 @@
 
 import random
 
+# Example language dictionary with the language as keys and the hints as values.
 languages = {
     "Korean": {
         "firstlang": "80 million",
